@@ -1,4 +1,4 @@
-# DHA Sensor app - Najaae 2019 edition
+# DHA Sensor app - Najaar 2019 edition
 Hieronder de korte opdrachtomschrijving van app-2, een getting-started guide, een in te vullen template en de vereisten/beoordelingsmodel.
 
 ## Opdrachtsomschrijving
